@@ -41,8 +41,14 @@ Compile the code, and run
 ```
 
   
-## Other tasks
+## Future Task
 
-- Add a handler to make the web root redirect to /view/FrontPage.
+- Add a create page button
+- Improve the Frontend styling
+
+## Demo
+
+To create a non-existent page. Use this URL
+`localhost:8080/view/ANewPageThatNeverExisted`
 
   
